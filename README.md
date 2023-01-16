@@ -33,7 +33,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 <h1>📲Contato</h1>
 
   <a href="https://t.me/PabloDeP" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:pablo_depaula123@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
   <a href="https://www.linkedin.com/in/pablo-dpaula/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn- %230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
