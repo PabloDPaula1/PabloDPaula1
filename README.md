@@ -1,12 +1,12 @@
-## Oii! Eu sou o Pablo de Paula
+## Olá! Eu sou o Pablo de Paula 👋
 </br>
 
-- 📚 Atualmente estou estudando: HTML, CSS, JavaScript, Git e GitHub
+- 🔍 Atualmente aberto a novas oportunidades.
 - 👩🏽‍💻 Sistemas de Informação (2022 - 2025)
-</br>
+- 💻 Sou Programador Front-End Jr
 
-<p>
-👨‍💻 Olá Dev, eu sou o Pablo e tenho 25 anos, atualmente faço faculdade de Sistemas de Informação no Centro Universitário Dom Bosco do Rio de Janeiro, estou no 3º Semestre, me interessei pela área da programação bem antes de entrar na faculdade, me identifiquei bastante com a área de Front-End, estou estudando para me tornar um Programador e um execelente profissional.
+## <p>
+👨‍💻 Olá Dev, eu sou o Pablo, tenho 25 anos, atualmente estou no 3º Período de Sistemas de Informação no Centro Universitário Dom Bosco, Tenho experiência profissional com projetos pessoais, trabalho bem em equipe, sou comunicativo e facilidade de aprendizado.
 </p>
 
 </br>
@@ -24,15 +24,16 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
-##
+## ⚙️ &nbsp;Análise do GitHub
 <p align="left">
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=pablodpaula1&show_icons=true&theme=chartreuse-dark" alt="pablodpaula1 stats"/>
-<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablodpaula1&theme=chartreuse-dark"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api?username=pablodpaula1&show_icons=true&theme=chartreuse-dark" alt="pablodpaula1 stats"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablodpaula1&theme=chartreuse-dark"/>
 </p>
 
+ <br>
 <h1>📲Contato</h1>
 
-  <a href="https://t.me/PabloDeP" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/PabloNicolino" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pablo-dpaula/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn- %230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
