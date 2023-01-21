@@ -3,7 +3,7 @@
 
 - 🔍 Atualmente aberto a novas oportunidades.
 - 👩🏽‍💻 Sistemas de Informação (2022 - 2025)
-- 💻 Sou Programador Front-End Jr
+- 💻 Sou Programador Front-End
 
 ## <p>
 👨‍💻 Olá Dev, eu sou o Pablo, tenho 25 anos, atualmente estou no 3º Período de Sistemas de Informação no Centro Universitário Dom Bosco, Tenho experiência profissional com projetos pessoais, trabalho bem em equipe, sou comunicativo e facilidade de aprendizado.
